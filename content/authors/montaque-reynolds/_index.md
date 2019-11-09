@@ -1,5 +1,5 @@
 ---
-[#](#) Display name
+# Display name
 name: Montaque Reynolds
 
 # Username (this should match the folder name)
