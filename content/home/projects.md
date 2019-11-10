@@ -33,10 +33,6 @@ subtitle = ""
   #   name = "Other"
   #   tag = "Demo"
   
-[[content.filter_button]]
-  name = "Slides"
-  tag = "Slides"
-
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
