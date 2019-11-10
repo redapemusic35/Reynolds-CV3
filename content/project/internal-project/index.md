@@ -28,7 +28,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: 
-- example
+- example-Hume-Fall2019
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
