@@ -14,6 +14,8 @@ slides:
   highlight_style: dracula
 ---
 
+---
+
 # Two Questions
 
 1. What Sort of Skepticism could be ascribed to Hume.
