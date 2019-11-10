@@ -1,166 +1,71 @@
 ---
-title: Slides
-summary: An introduction to using Academic's Slides feature.
-authors: []
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
+title: 
+  - Is it Non-Cognitive?
+summary: Finding the Connection Between Skepticism and Sentimentalism
+author:
+  - Montaque Reynolds
+  - Hume and Reid
+  - Professor John Greco
+tags: [Hume, Sentimentalism, Non-Cognitivism]
+categories: [Hume, Skepticism, Sentimentalism]
+date: "2019-11-10T06:59:002"
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
+  theme: github
   highlight_style: dracula
 ---
 
-# Welcome to Slides
+# Two Questions
 
-[Academic](https://sourcethemes.com/academic/)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
-
----
-
-## [Controls](Controls)
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
+1. What Sort of Skepticism could be ascribed to Hume.
+2. In what what is this skepticism related to what is now called Sentimentalism?
 
 ```markdown
 {{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
+- First, Foelin argues that Hume's skepticism is a skepticism which is about what we can know based on our particular psychological and cognitive profiles shared as between us owing to our human nature. It is a skepticism which questions what we know given our cognitive capacties.
 {{%/* /speaker_note */%}}
 ```
 
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
-
 ---
 
-## Themes
+* Experience and Observation
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/img/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
+> One clue to the nature of Hume's skepticism is given in the sentence that immediately follows his claim that the philosophy found in the *Treatise* 'is very skeptical, and tends to give us a notion of the imperfections and narrow limits of human understanding.'"[@foge09a, find page number]
 
 ```markdown
-{{</* slide background-image="/img/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
+{{%/* speaker_note */%}}
+- Experience and observation are central to reasoning according to Fogelin's Hume. What does this mean? What are the implications? Does he mean to say that it is only through experience that we can reason about things or is he saying that we must first start from observation in order to reason?
 ```
 
 ---
 
-## Custom CSS Example
+## Some possible understandings
 
-Let's make headers navy colored.
+1. All reasoning is reduced to experience because of the way we come to believe things about the world.
+2. Belief is produced through custom (experience).
+3. And this is skepticism.
 
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
+```markdown
+{{%/* speaker_note */%}}
+- It is commonly agreed that for Hume, that belief is produced by custom or habit. However, it seems that Fogelin would argue that typical interpretations of Hume skirt the distinction between fallabilism and pyrrhonian skepticism. First, fallabilism is not a form of skepticism. At least not in the sense of pyrrhonian skepticism. It is milder exactly because it does not infer that knowledge requires certainty. However, I think it would be good to point out that what makes fallabilism a milder form of skepticsm is that according to it, empricism is based on the view that knowledge requires certainty by pyrrhonist think that this is too dogmatic.
 ```
 
 ---
 
-# Questions?
+## Hume's science of the mind
 
-[Ask](https://discourse.gohugo.io)
+> For Hume, understanding the workings of the mind is the key to understanding everything else [@brio09a, 41]...philosophical attempts at justifying our beliefs...[@brio09a, 45]"
 
-[Documentation](https://sourcethemes.com/academic/docs/)
+---
+
+However...
+
+> "recognition of our unreflective, instinctive, and unavoidable acceptance of certain basic beliefs must not be confused with claiming to have a philosophical justification of those beliefs [45]"
+
+```markdown
+{{%/* speaker_note */%}}
+- So the question which remains is; how do we understand reflective belief which itself is founded on un-reflective or reflexive (habit) beliefs which themselves are unjustifiable? His answer is to give us a theory of personal identity which the agent is responsible for the beliefs that they hold. identity is that which unities the underlying processes of human cognition on which he bases his theory of mind.
+```
+
+---
+
+
