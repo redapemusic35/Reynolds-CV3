@@ -9,9 +9,6 @@ author:
 tags: [Hume, Sentimentalism, Non-Cognitivism]
 categories: [Hume, Skepticism, Sentimentalism]
 date: "2019-11-10T06:59:002"
-slides:
-  theme: beige
-  highlight_style: dracula
 ---
 
 ---
