@@ -12,11 +12,11 @@ date: "2019-11-10T06:59:002"
 
 # Two Questions
 
+---
+
 1. What Sort of Skepticism could be ascribed to Hume.
 2. In what what is this skepticism related to what is now called Sentimentalism?
 
-
-Note:
 
 - First, Foelin argues that Hume's skepticism is a skepticism which is about what we can know based on our particular psychological and cognitive profiles shared as between us owing to our human nature. It is a skepticism which questions what we know given our cognitive capacties.
 
