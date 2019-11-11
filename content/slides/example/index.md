@@ -29,7 +29,7 @@ Note:
 > One clue to the nature of Hume's skepticism is given in the sentence that immediately follows his claim that the philosophy found in the *Treatise* 'is very skeptical, and tends to give us a notion of the imperfections and narrow limits of human understanding.'"[@foge09a, find page number]
 
 
-{{%/* speaker_note */%}}
+{%/* speaker_note */%}
 - Experience and observation are central to reasoning according to Fogelin's Hume. What does this mean? What are the implications? Does he mean to say that it is only through experience that we can reason about things or is he saying that we must first start from observation in order to reason?
 
 ---
