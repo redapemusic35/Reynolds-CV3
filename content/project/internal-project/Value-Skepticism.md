@@ -1,6 +1,40 @@
 ---
-title: "Value Skepticism"
-date: 2019-11-10T18:36:22-06:00
-draft: false
----
+title: Internal Project
+summary: An example of using the in-built project page.
+tags:
+- Deep Learning
+date: "2016-04-27T00:00:00Z"
 
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Photo by rawpixel on Unsplash
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+url_code: ""
+url_pdf: ""
+url_slides: "example"
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: 
+  - example
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects:
+- external-project
+---
