@@ -6,7 +6,7 @@ tags:
 date: "2019-11-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://true-convenience.com/post/gaus-vallier-2009/"
 
 image:
   caption: Cruxifiction of Saint Peter -- Michelangelo Merisi da Carvaggio
