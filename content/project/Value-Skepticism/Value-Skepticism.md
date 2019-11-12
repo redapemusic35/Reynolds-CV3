@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: [Cruxifiction of Saint Peter -- Michelangelo Merisi da Carvaggio](https://en.wikipedia.org/wiki/Crucifixion_of_Saint_Peter_(Caravaggio))
+  caption: Cruxifiction of Saint Peter -- Michelangelo Merisi da Carvaggio
   focal_point: Smart
 
 links:
