@@ -26,12 +26,12 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Political Morality"
+  #   tag = "Well-Being"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "Hume"
+  #   tag = "Moral Sentimentalism"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
