@@ -1,5 +1,5 @@
 ---
-title: Value Skepticism and Moral Psychology
+title: Internal Project
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: [Cruxifiction of Saint Peter -- Michelangelo Merisi da Carvaggio](https://en.wikipedia.org/wiki/Crucifixion_of_Saint_Peter_(Caravaggio))
+  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
@@ -38,4 +38,27 @@ slides:
 projects:
 - external-project
 ---
+
+* Comprehensive Liberalism
+* Political Liberalism
+* Comprehensive Perfectionism
+* Political Perfectionism
+
+---
+
+# Comprehensive Liberalism
+
+* Neutrality is entailed by, or flows from, some Comprehensive moral or philosophical doctrine.
+
+For instance, John Stewart Mill argues that individuality are central components to living a good life. 
+
+# Political Liberalism
+
+* Stronger version of Comprehensive neutrality. It is contractual and "morally minimal" [@tahz19a, 145]
+* Proponents include Rawls [@rawl85a, 245-246] and [@rawl85b, 442] and Larmore [@larm87a, 51,53,129]
+
+# Political Perfectionists 
+
+* argue that the state can pursue some conception of the good life but that this must be in broadly contextual terms, framework. 
+
 
