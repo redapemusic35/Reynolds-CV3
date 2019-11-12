@@ -1,6 +1,6 @@
 ---
 title: Value Skepticism and Moral Psychology
-summary: An example of using the in-built project page.
+summary: A Problem and Response.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
