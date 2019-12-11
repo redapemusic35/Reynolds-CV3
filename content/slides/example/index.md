@@ -55,22 +55,6 @@ Virtue Epistemology and Moral Knowledge: Moral Epistemology
   * Does the empathic agent know more than the non-empathic?
   * Are there two types of virtues of empathy?
 
-{{%/* speaker_note */%}}
-
-(Ernst Sosa, Murray, Sarah McGrath, Zagzebski, Hursthouse, Miranda Fricker, Amy Coplan, Peter Goldie, Cuneo, Slote, Gelfand, Golub, Lindenman, Elizabeth Schecter, Stump, McCluski, John McGinnis,
-
-Who are the organizers, what are the topics, Derick and I plus advisors. Roles, 
-
-Happen to know that people have a connection to the department. Here are some potential speakers, we were hoping that someone here had ideas. 
-
-Should be on a wide variety of topics, but must explicitly address the question of how empathy contributes (or fails to contribute) to knowledge. Potential presentation/paper topics or titles could include (but are not limited to)
-
-{{%/* /speaker_note */%}}
-
----
-
-<h2> Thanks for watching! </h2>
-<h4><a href="https://raw.github.com/farseer90718/vim-reveal/master/test/vim-reveal.md">Original markdown file for this presentation.</a></h4>
 
 
 
