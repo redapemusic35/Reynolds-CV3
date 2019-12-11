@@ -31,6 +31,9 @@ Virtue Epistemology and Moral Knowledge: Moral Epistemology
 * Racial, Gender
 	* Knowledge about others, lack of knowledge about others and distrust
 	* Failure of testimony and lack of empathy
+
+---
+
 * Metaphysical (K about persons and their situations)
 	* Is it part of human nature to gain knowledge through empathy?
 	* How much consistency in human nature does empathy require?
