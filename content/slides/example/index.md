@@ -63,8 +63,10 @@ Who are the organizers, what are the topics, Derick and I plus advisors. Roles,
 
 Happen to know that people have a connection to the department. Here are some potential speakers, we were hoping that someone here had ideas. 
 
-Should be on a wide variety of topics, but must explicitly address the question of how empathy contributes (or fails to contribute) to knowledge. Potential presentation/paper topics or titles could include (but are not limited to):
+Should be on a wide variety of topics, but must explicitly address the question of how empathy contributes (or fails to contribute) to knowledge. Potential presentation/paper topics or titles could include (but are not limited to)
+
 {{%/* /speaker_note */%}}
+
 ---
 
 <h2> Thanks for watching! </h2>
