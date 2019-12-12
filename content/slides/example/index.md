@@ -33,7 +33,7 @@ Virtue Epistemology and Moral Knowledge: Moral Epistemology
 	* Failure of testimony and lack of empathy
 
 
-{{%/* speaker_note */%}}It is commonly agreed that for Hume, that belief is produced by custom or habit. However, it seems that Fogelin would argue that typical interpretations of Hume skirt the distinction between fallabilism and pyrrhonian skepticism. First, fallabilism is not a form of skepticism. At least not in the sense of pyrrhonian skepticism. It is milder exactly because it does not infer that knowledge requires certainty. However, I think it would be good to point out that what makes fallabilism a milder form of skepticsm is that according to it, empricism is based on the view that knowledge requires certainty by pyrrhonist think that this is too dogmatic.{{%/* speaker_note */%}}
+{{%/* speaker_note */%}}It is commonly agreed that for Hume, that belief is produced by custom or habit. However, it seems that Fogelin would argue that typical interpretations of Hume skirt the distinction between fallabilism and pyrrhonian skepticism. First, fallabilism is not a form of skepticism. At least not in the sense of pyrrhonian skepticism. It is milder exactly because it does not infer that knowledge requires certainty. However, I think it would be good to point out that what makes fallabilism a milder form of skepticsm is that according to it, empricism is based on the view that knowledge requires certainty by pyrrhonist think that this is too dogmatic.{{%/* /speaker_note */%}}
 ---
 
 * Metaphysical (K about persons and their situations)
