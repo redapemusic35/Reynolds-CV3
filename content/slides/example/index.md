@@ -32,7 +32,10 @@ Virtue Epistemology and Moral Knowledge: Moral Epistemology
 	* Knowledge about others, lack of knowledge about others and distrust
 	* Failure of testimony and lack of empathy
 
-{%/*Experience and observation are central to reasoning according to Fogelin's Hume. What does this mean? What are the implications? Does he mean to say that it is only through experience that we can reason about things or is he saying that we must first start from observation in order to reason?*/%}
+
+{{%/* speaker_note */%}}
+- It is commonly agreed that for Hume, that belief is produced by custom or habit. However, it seems that Fogelin would argue that typical interpretations of Hume skirt the distinction between fallabilism and pyrrhonian skepticism. First, fallabilism is not a form of skepticism. At least not in the sense of pyrrhonian skepticism. It is milder exactly because it does not infer that knowledge requires certainty. However, I think it would be good to point out that what makes fallabilism a milder form of skepticsm is that according to it, empricism is based on the view that knowledge requires certainty by pyrrhonist think that this is too dogmatic.
+{{%/* speaker_note */%}}
 ---
 
 * Metaphysical (K about persons and their situations)
