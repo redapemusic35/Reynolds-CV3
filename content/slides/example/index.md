@@ -32,6 +32,7 @@ Virtue Epistemology and Moral Knowledge: Moral Epistemology
 	* Knowledge about others, lack of knowledge about others and distrust
 	* Failure of testimony and lack of empathy
 
+{%/*Experience and observation are central to reasoning according to Fogelin's Hume. What does this mean? What are the implications? Does he mean to say that it is only through experience that we can reason about things or is he saying that we must first start from observation in order to reason?*/%}
 ---
 
 * Metaphysical (K about persons and their situations)
