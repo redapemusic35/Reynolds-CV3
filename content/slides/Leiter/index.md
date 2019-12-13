@@ -51,7 +51,9 @@ date: "2019-11-10T06:59:002"
 2. Belief is produced through custom (experience).
 3. And this is skepticism.
 
-
+{{% alert note %}}
+Test blah
+{{% /alert %}}
 
 ---
 
