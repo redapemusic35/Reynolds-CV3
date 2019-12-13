@@ -19,7 +19,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "Leiter"
+url_slides: "example"
 url_video: ""
 
 # Slides (optional).
