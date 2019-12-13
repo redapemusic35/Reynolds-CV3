@@ -12,12 +12,20 @@ date: "2019-11-10T06:59:002"
 
 # Abstract
 
+1. Skews the subjectivist and non-cognitive commitments.
+2. Argument to the best explanation is not really the best explanation.
+3. Ignores common sense proper function argument.:
+  1. There is no reason to think that just because sentiment is non-cognitive, that it isn't a part of our perceptive faculties, evolved or designed to tell us truths about the world.
+
 ---
 
 * What Sort of Skepticism could be ascribed to Leiter?
 * In what what is this skepticism related to what is now called Sentimentalism?
 * What is a naturalist ethic?
 * What is Leiter denying?
+
+--- 
+
 * How can the traditional theorist respond?
 * What better response can the sentimentalist give?
 * How does this improve on the traditional responses?
