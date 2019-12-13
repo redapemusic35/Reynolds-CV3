@@ -6,7 +6,7 @@ tags:
 date: "2019-11-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://true-convenience.com/post/gaus-vallier-2009/"
+external_link: ""
 
 image:
   caption: Cruxifiction of Saint Peter -- Michelangelo Merisi da Carvaggio
@@ -36,7 +36,7 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- external-project
+- Value-Skepticism
 ---
 
 
