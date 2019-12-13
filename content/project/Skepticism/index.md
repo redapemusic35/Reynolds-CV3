@@ -19,7 +19,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "example"
+url_slides: "Leiter"
 url_video: ""
 
 # Slides (optional).
@@ -36,7 +36,10 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- Value-Skepticism
+- Skepticism
+
+talks:
+- example
 ---
 
 
