@@ -58,16 +58,6 @@ However...
 > "recognition of our unreflective, instinctive, and unavoidable acceptance of certain basic beliefs must not be confused with claiming to have a philosophical justification of those beliefs [45]"
 
 
-{{%/* speaker_note */%}}
-- So the question which remains is; how do we understand
-  reflective belief which itself is founded on un-reflective
-  or reflexive (habit) beliefs which themselves are
-  unjustifiable? His answer is to give us a theory of personal
-  identity which the agent is responsible for the beliefs that
-  they hold. identity is that which unities the underlying
-  processes of human cognition on which he bases his theory of
-  mind.{{%/* speaker_note /%}}
-
 ---
 
 ## Second Basic Argument for Anti-Realism
