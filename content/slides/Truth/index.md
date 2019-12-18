@@ -72,6 +72,9 @@ date: "2019-11-10T06:59:002"
 
 ## Skepticism of What?
 
+---
+
+## Counter to Tahzib, why we should think about a metaphysical account of the good.
 
 
 
