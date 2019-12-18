@@ -14,6 +14,11 @@ date: "2019-11-10T06:59:002"
 
 1. External conceptions of political liberalism are concerned with metaphysical truth.
 
+{{% speaker_note %}}
+- blah test
+- blah test
+{{% /speaker_note %}}
+
 ---
 
 2. Citizens of a politically liberal society are free and equal and have varying views about the good life.
