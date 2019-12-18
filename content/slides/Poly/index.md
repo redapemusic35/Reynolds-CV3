@@ -10,7 +10,7 @@ categories: [Hume, Skepticism, Sentimentalism]
 date: "2019-11-10T06:59:002"
 ---
 
-# Abstract
+### Abstract
 
 Should the liberal state:
 
@@ -18,11 +18,11 @@ Should the liberal state:
 
 Or should it...
 
-1. Restrict itself to the task of providing a fair framework of rules and institutions within which citizens can pursue their own conception of what makes for a valuable life?
+2. Restrict itself to the task of providing a fair framework of rules and institutions within which citizens can pursue their own conception of what makes for a valuable life?
 
 ---
 
-### Jonathan Quong in "Liberalism without Perfection"...
+#### Jonathan Quong in "Liberalism without Perfection"...
 
 ... argues that the liberal state should pursue 2.
 
@@ -40,11 +40,11 @@ Or should it...
 2. Should only concern itself with the just distributions of freedom, resources, and other advantages between citizens.
 3. Ensure that each citizen is given a fair chance to develop and pursue his or her own conception of the good life [@quon10a, 1]
 
-{% speaker_note %}
+{{% speaker_note %}}
 - for instance, cannot coerce them into eating a salad at every meal.
 - However, a politically liberal state can pursue policies which strengthen the economy.
 - Last, the PL state should that each of its citizens are capable of pursuing the good life.
-{% /speaker_note %}
+{{% /speaker_note %}}
 
 ---
 
@@ -52,7 +52,7 @@ Or should it...
 
 ---
 
-### 1. What role should conceptions of the good play in a liberal political theory? One that remains neutral between competing conceptions of the good life.
+#### 1. What role should conceptions of the good play in a liberal political theory? One that remains neutral between competing conceptions of the good life.
 
 {{% speaker_note %}}
 
@@ -62,7 +62,7 @@ Or should it...
 
 ---
 
-### 2. Two problems faced by Raz's argument for personal autonomy. 
+#### 2. Two problems faced by Raz's argument for personal autonomy. 
 
 {{% speaker_note %}}
 - Raz's account fails to yield a principled commitment to liberal toleration. Rather, it is contingetn on certain empirical assumptions. These assumptions should be treated irrelecvant to a liberal theory of toleration.
@@ -72,7 +72,7 @@ Or should it...
 
 ----
 
-### 3. Liberal Perfectionism...
+#### 3. Liberal Perfectionism...
 
 Is a paternalistic doctrine. It does not recognize citizens as free equal.
 
@@ -95,7 +95,7 @@ wever, they hold
 
 ---
 
-### 5. The External and Internal Conception of Political Liberalism
+#### 5. The External and Internal Conception of Political Liberalism
 
 1. On the external view, pluralism is a fact about the world.
 2. On the internal view, pluralism is an essential and necessary feature.
@@ -109,7 +109,7 @@ wever, they hold
 
 ---
 
-### 6. The Role for the Idea of an Overlapping Consensus among Citizens of a Politically Liberal Society.
+#### 6. The Role for the Idea of an Overlapping Consensus among Citizens of a Politically Liberal Society.
 
 {{% speaker_note %}}
 - First, pl mistakes agreement for justification. Consensus justifies policy.
@@ -119,7 +119,7 @@ wever, they hold
 
 ---
 
-### 7. PL's Defensible Asymmetrical Treatment of Disagreements.
+#### 7. PL's Defensible Asymmetrical Treatment of Disagreements.
 
 1. PL treats concerns about justice differently from concerns about the good.
 
@@ -147,14 +147,14 @@ wever, they hold
 
 ---
 
-#### So against Raz’s claim that “Rawl’s theory cannot successfully abstain from certain truth claims,” Quong argues:
+##### So against Raz’s claim that “Rawl’s theory cannot successfully abstain from certain truth claims,” Quong argues:
 
 1. In a liberal society, pluralism about the good is the derivative outcome.
 2. This means that the job of defending certain truth claims falls to the citizens of liberal societies and not the political theorist.
 
 ---
 
-### 9. We should always want our political principles to be justifiable to others on terms those others can reasonably accept.
+#### 9. We should always want our political principles to be justifiable to others on terms those others can reasonably accept.
 
 {{% speaker_note %}}
 1. Public justification requires public reasons, reasons which *everyone* can recognize as valid political considerations.
@@ -163,7 +163,7 @@ wever, they hold
 
 ---
 
-### 10. 
+#### 10. 
 
 > Though *unreasonable* people can be rightfully excluded from “the constituency of of justification in liberal theory, [@quon10a, 11]” these persons still have the same political status as other citizens and therefore receive the same rights and benefits as everyone else.
 
