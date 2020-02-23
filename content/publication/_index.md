@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Interesting Reads
 
 # View.
 #   1 = List
