@@ -21,13 +21,13 @@ date_end: "2020-04-28T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2020-04-28T13:00:00Z"
+publishDate: "2019-02-21T13:00:00Z"
 
 authors: [Montaque Reynolds]
-tags: []
+tags: [Sentiment Analysis, Moral-Knowledge, Moral-Psychology, Sentimentalism]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
