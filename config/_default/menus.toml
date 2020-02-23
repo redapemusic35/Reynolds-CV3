@@ -28,7 +28,7 @@
   url = "#talks"
   weight = 50
 
-[[main]]
+ [[main]]
   name = "Interesting Reads"
   url = "#featured"
   weight = 60
