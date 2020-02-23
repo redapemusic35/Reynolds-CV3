@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Political authority and other fake news
 summary: A Sentiment of Empathy or Quong's Buckpassing Account of Metaphysical Truth.
 tags:

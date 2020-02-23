@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Political Authority and Other Fake News"
 summary: A sentimental response to Quong's buckpassing account of metaphysical truth.
 author:

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "PGSA Conference Proposal"
 summary: Virtue Epistemology and Moral Knowledge
 author:
