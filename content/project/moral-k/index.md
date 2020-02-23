@@ -37,6 +37,9 @@ slides: "moral-k"
 projects: 
 - moral-k 
 talks: moral-k
+
+publication:
+- stum-10
 ---
 
 Eleonore @stum10 dedicates a section of her book "Wandering in darkness," to the prospects of narrative as a source of knowledge. In this paper, I want to speak to the prospects of narrative as a source for un-knowledge. I am specifically concerned with the prospect of narrative in the form of music lyrics, and how these might actually hinder moral knowledge. You could say that what I want to do, is prove the old man's point, and short of that, articulate a way in which we might look at big data as a method to do just that.
