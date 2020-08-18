@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: Hume and Reid
+  - course: PhD in Philosophy
     institution: Saint Louis University
-    year: 2019
-  - course: Geneologies
-    institution: Saint Louis University
-    year: 2019
-  - course: Political Morality
-    institution: Saint Louis University
-    year: 2019
+    year: 2023
+  - course: MA in Philosophy
+    institution: Oklahoma State University
+    year: 2017
+  - course: BA in Philosophy
+    institution: Seattle Pacific University
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/redapemusic35
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,6 +68,11 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
----
-I am a first year Doctoral student in the department of Philosophy at Saint Louis University. My research interests include Epistemology (mostly virtue), Philosophy of Religion and Philosophy of Mind and philosophy of Law. However, my primary focus are characteristic virtues of agents in each of the above areas. When I am not reading about or writing about virtue, I enjoy spending my free time with my wife Amanda and our two darling children.
+--- 
+
+I am a first year Doctoral student in the department of Philosophy at
+Saint Louis University. My research interests include Epistemology (mostly
+virtue), Philosophy of Religion and Philosophy of Mind and philosophy of
+Music. However, my primary focuses currently are characteristic virtues of agents and how these are developed. Presently, I am researching ways in which music and narratives can influence the development of human virtues in each of the above areas. Two methods that I am researching in this area are those of topic modeling and sentiment analysis using Stanford's NLP (Natural Language Processing). When I am not reading about or writing about virtue, I
+enjoy spending my free time with my wife Amanda and our two darling children.
  
