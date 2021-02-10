@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Example Talk
+title: Political Authority and Other Fake News
 event: Academic Theme Conference
 event_url: https://example.org
 
@@ -28,7 +28,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

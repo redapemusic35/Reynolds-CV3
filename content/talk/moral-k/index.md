@@ -1,10 +1,9 @@
 ---
-draft: true
-title: Example Talk
-event: Academic Theme Conference
+title: "Emotional Data"
+event: Class Presentation
 event_url: https://example.org
 
-location: Source Themes HQ
+location: Pius Library
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,23 +11,23 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Searching for moral knowledge in music lyrics.
+abstract: "Eleonore @stum10 dedicates a section of her book 'Wandering in darkness,' to the prospects of narrative as a source of knowledge. In this paper, I want to speak to the prospects of narrative as a source for un-knowledge. I am specifically concerned with the prospect of narrative in the form of lyrics, and how these might facilitate un-knowledge of the sort to which I am concerned. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-02-23T13:00:00Z"
+date_end: "2020-04-28T13:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-02-21T13:00:00Z"
 
-authors: []
-tags: []
+authors: [Montaque Reynolds]
+tags: [Sentiment Analysis, Moral-Knowledge, Moral-Psychology, Sentimentalism]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -49,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Leiter
+slides: moral-k
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,14 +56,14 @@ slides: Leiter
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- moral-k
 
 # Enable math on this page?
 math: true
 ---
 
 {{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Check out the slides for this talk! Click on the **Slides** button above to view the built-in slides.
 {{% /alert %}}
 
 Slides can be added in a few ways:

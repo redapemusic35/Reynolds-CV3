@@ -1,36 +1,31 @@
 ---
-draft: true
-title: "PGSA Conference Proposal"
-summary: Virtue Epistemology and Moral Knowledge
+title: "Emotional Data"
+summary: Emotions, Narratives, Moral-Knowledge and Big Data; A Big Proposal for Sentiment Analysis
 author:
-  - PGSA
-tags: [Hume, Sentimentalism, Non-Cognitivism]
+  - Montaque Reynolds
+tags: [Moral Psychology, Sentiment Analysis, Non-Cognitivism]
 categories: [Hume, Skepticism, Sentimentalism]
-date: "2019-11-10T06:59:002"
+date: "2020-02-23T12:40:002"
 ---
 
-#### PGSA Conference Proposal
+#### Narratives, Sources for Moral-Knowledge
 
-Virtue Epistemology and Moral Knowledge: Moral Epistemology
+Using Sentiment Analysis on Narratives Found in Music Lyrics
 
 ---
 
-#### "How does empathy contribute to knowledge?" (In a Domain)
+#### "Wandering in Darkness" 
 
-<<<<<<< HEAD
-> One clue to the nature of Hume's skepticism is given in the sentence that immediately follows his claim that the philosophy found in the *Treatise* 'is very skeptical, and tends to give us a notion of the imperfections and narrow limits of human understanding.'"[@foge09a, find page number]
+* To what extent can a focus on narratives improve analytic philosophy?
 
+---
 
-{%/*speaker_note
-- Experience and observation are central to reasoning according to Fogelin's Hume. What does this mean? What are the implications? Does he mean to say that it is only through experience that we can reason about things or is he saying that we must first start from observation in order to reason?*/%}
-=======
 * Moral (sentimentalism)
 	* "Is empathy necessary for moral knowledge
 	* How does empathy contribute to moral knowledge?
 	* Examples of the teaching of empathy in moral knowledge.
   * Knowledge from Empathy (Failure of K from Failure of Empathy)
   * Moral Perception and Moral Knowledge
->>>>>>> 59d845af541401a3cb887d9c929d460b72c18b82
 
 ---
 
